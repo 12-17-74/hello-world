@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-Sanity is a crazy place to be teetering!
+I've always been crazy, but it keeps me from going insane!
